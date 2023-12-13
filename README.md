@@ -6,6 +6,6 @@ Rotate $\theta$ with respect to $x\hat{i}+y\hat{j}+z\hat{k}$ vector.
 Simple quaternion conversion for that rotation would be :
 
 Take the unit vector of this axis: 
-$M = \sqrt(x**2+y**2+z**2)$
+$M = \sqrt(x^2+y^2+z^2)$
 $w = \cos(\theta/2))
 $
